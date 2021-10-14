@@ -22,5 +22,4 @@ The goals of the work were 2:
 1.Identify macro muscial historical periods by using music tracks
 2.Classify musicals genres 
 
-R code and report are attached (for the report it is written in italian, but there
-is also attached a little summary in english)
+R code and report are attached
