@@ -13,6 +13,8 @@ Gli obiettivi del lavoro sono stati 2:
 
 Sono allegati il report in pdf e il codice R
 
+Il lavoro è stato svolto con Matteo Baldanza e Filippo Masi, nel report è
+riportata la suddivisione del lavoro
 
 The dataset used for ours analysis is available at the following link https://www.kaggle.com/harish24/
 music-genre-classification. It is composed by 1000 records and 28 features. Each record refers at one 
@@ -23,3 +25,6 @@ The goals of the work were 2:
 2.Classify musicals genres 
 
 R code and report are attached
+
+The work have been done with Matteo Baldanza and Filippo Masi, in the report 
+is written the partiotion of the work
