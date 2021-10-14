@@ -18,6 +18,6 @@ The dataset used for ours analysis is available at the following link https://ww
 music-genre-classification. It is composed by 1000 records and 28 features. Each record refers at one 
 music tracks which lasts 30 seconds.
 
-The goals of the work were 2:
+The goals of the work were 2:\\
 1.Identify macro muscial historical periods by using music tracks
 2.Classify musicals genres 
