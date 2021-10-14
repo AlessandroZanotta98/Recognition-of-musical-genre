@@ -13,11 +13,11 @@ Gli obiettivi del lavoro sono stati 2:
 
 Sono allegati il report in pdf e il codice R
 
-# ENGLISH SECTION
+
 The dataset used for ours analysis is available at the following link https://www.kaggle.com/harish24/
 music-genre-classification. It is composed by 1000 records and 28 features. Each record refers at one 
 music tracks which lasts 30 seconds.
 
-The goals of the work were 2:\\
+The goals of the work were 2:
 1.Identify macro muscial historical periods by using music tracks
 2.Classify musicals genres 
